@@ -33,7 +33,7 @@ const Header = ({ isOpen,toggleClose,toggleOpen }) => {
     <div className=''>
       <div className='fixed z-50 flex justify-between text-white bg-red-400 sm1:hidden md:hidden'>
         <Link href="/" className='fixed mt-12 ml-20 text-sm tracking-tighter border-0 border-red-500 w-fit hover:text-blue-400 hover:text-xl'>
-          <div>Ali Faiz</div>
+          <div>Ali Faiz Rizvi</div>
           <div>Marketing and Business Development</div>
         </Link>
         <div className='fixed right-0 flex justify-between mt-12 mr-20 border-0 border-red-500 w-fit'>
@@ -50,7 +50,7 @@ const Header = ({ isOpen,toggleClose,toggleOpen }) => {
       </div>
       <div className=''>
         <Link href="/" className='fixed z-50 mt-12 text-sm tracking-tighter text-white border-0 border-red-500 sm1:ml-4 md:ml-20 w-fit'>
-          <div>Ali Faiz</div>
+          <div>Ali Faiz Rizvi</div>
           <div>Marketing and Business Development</div>
         </Link>
         <div className='fixed right-0 z-50 mt-12 mr-2 text-white'>

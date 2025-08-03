@@ -11,8 +11,8 @@ export const MenuItems = [
     },
     {
         id:3,
-        linkedSection:'#projects',
-        name:'Projects',
+        linkedSection:'#contributions',
+        name:'Experience',
     },
     {
         id:4,

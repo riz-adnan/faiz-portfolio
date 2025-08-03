@@ -24,5 +24,14 @@ export const scrollData = [
       description:"I am deeply passionate about business development and strategic growth. I constantly explore evolving market trends, emerging industries, and innovative business models. My experience spans across market research, brand positioning, international expansion, and partnership development. I’ve led high-performing teams on multiple projects, including heading a 35+ member team for business outreach and collaborations during major institutional events. I also had the privilege of representing my institute at national-level business and strategy summits, showcasing my leadership and negotiation skills. My journey has been defined by a commitment to building strong networks, identifying growth opportunities, and driving impactful results.",
       imgUrl:'/media/images/coding2.gif',
     },
+    {
+  id: '4',
+  heading1: 'a human resource',
+  heading2: 'professional',
+  maskText: 'CVs, Interviews & Coffee ☕',
+  description: "With extensive experience in talent acquisition and people operations, I’ve worked across HR functions including full-cycle recruitment, employee engagement, policy implementation, and team building. From managing recruitment drives at startups like The Dropouts Media and TalentOla to contributing to structured onboarding at ArTech, Smart Source and Canistel, I've handled everything from sourcing and screening to interviews and onboarding. My ability to build strong candidate pipelines, resolve workplace issues, and implement strategic HR practices has helped organizations grow with the right people at the right time.",
+  imgUrl: '/media/images/HR.gif',
+}
+
     
   ]
