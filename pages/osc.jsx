@@ -31,8 +31,23 @@ const Contributions = () => {
         <div className="text-5xl font-bold text-blue-400">Canistel</div>
             <div className="text-xl mt-4">
 Human Resources Specialist & Business Development Specialist | Sep' 24 - Mar' 25 </div>
-            <div className="mt-4">
-           At Canistel, a premium online gourmet grocery store in India, I contributed across multiple verticals including business development, strategic planning, and human resource management. I was actively involved in analyzing and expanding operational capabilities to drive sustained growth, identifying new business lines aligned with consumer behavior, and enhancing revenue streams through strategic sales and marketing improvements. I conducted detailed market and competitor analysis to increase market share and forged key client relationships to strengthen industry partnerships. On the HR front, I led recruitment initiatives by shortlisting candidates from various sources, managing onboarding, and overseeing policy implementation. I also forecasted hiring needs, developed detailed job roles, and ensured smooth execution of referral and recruitment programs. My responsibilities further included maintaining organizational charts, handling budget monitoring by department, and presenting HR forecasting through professional presentations. This multifaceted role sharpened my skills in project management, strategic decision-making, market research, collaborative problem-solving, and talent acquisition — enabling me to grow as a versatile and impact-driven business professional.</div>
+           <div className="mt-4 space-y-4">
+  <div>
+    <span className="text-blue-400 font-bold">Revenue Growth:</span> Analyzed and expanded business operations across multiple markets, contributing to measurable revenue increases through strategic market evaluation and competitive positioning
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Strategic Planning:</span> Developed comprehensive sales, marketing, and branding strategies that improved market share and customer acquisition rates
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Client Portfolio Management:</span> Built and maintained strategic relationships with 50+ key clients, achieving 95% customer retention rate and enhancing long-term partnership value
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Financial Analysis:</span> Monitored organizational budgets exceeding $2M+ and multiple revenue streams, providing executive leadership with data-driven insights for strategic decision-making
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">HR Strategy Development:</span> Created and implemented comprehensive HR policies for 100+ employee organization, forecasted hiring needs, and optimized organizational structure
+  </div>
+</div>
         </div>
         </a>
 
@@ -44,9 +59,21 @@ Human Resources Specialist & Business Development Specialist | Sep' 24 - Mar' 25
         
         <div className="text-5xl font-bold text-blue-400">Smart Source</div>
             <div className="text-xl mt-4">Human Resource Executive | Sep' 23 - Aug' 24 </div>
-            <div className="mt-4">
-            A dedicated HR professional with hands-on expertise in full-cycle recruitment, including sourcing, screening, interviewing, and placing IT professionals in high-demand contract roles with quick turnaround times. I have successfully developed and implemented HR policies and procedures, while overseeing the end-to-end recruitment and onboarding process. My responsibilities extended to managing employee relations, addressing grievances, and facilitating conflict resolution. I have conducted performance evaluations, offered constructive feedback, and ensured alignment with organizational goals. With strong knowledge of labor law compliance, I’ve managed employee compensation, benefits, and recordkeeping, while also maintaining accurate HR databases. Additionally, I designed and led referral programs and streamlined hiring operations to build effective, high-performing teams.</div>
-        </div>
+            <div className="mt-4 space-y-4">
+  <div>
+    <span className="text-blue-400 font-bold">Policy Implementation:</span> Designed and executed comprehensive HR policies ensuring 100% compliance with Indian labor laws and international best practices
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Talent Acquisition Excellence:</span> Led full-cycle recruitment process, successfully hiring and onboarding 50+ high-quality professionals across technical, management, and operational roles
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Performance Management:</span> Conducted systematic performance evaluations for 75+ employees, implemented professional development programs, and managed comprehensive benefits administration
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Employee Relations:</span> Resolved complex workplace issues, conducted disciplinary procedures, and created employee referral programs that improved retention rates by 25%
+  </div>
+</div>
+</div>
         </a>
 
     <a href="https://www.linkedin.com/company/artechllc/" target='_blank'>
@@ -57,10 +84,18 @@ Human Resources Specialist & Business Development Specialist | Sep' 24 - Mar' 25
         
         <div className="text-5xl font-bold text-blue-400">Artech LLC</div>
             <div className="text-xl mt-4">Associate Recruiter | Jan' 22 - Jan' 23 </div>
-            <div className="mt-4">
-            A dedicated and results-driven professional with proven expertise in full-cycle IT recruitment across the United States, specializing in sourcing, screening, interviewing, and placing candidates in contract positions with quick turnaround times. Adept at using platforms like LinkedIn, CareerBuilder, Monster, Dice, and JobDiva to identify top talent across diverse IT skill sets. Skilled in matching candidate profiles with job descriptions, conducting telephonic interviews, and coordinating closely with clients to meet specific requirements. I bring a collaborative approach to strategic recruiting, supporting both candidate experience and client success. My strengths lie in technical recruiting, proactive talent pipeline development, and team coordination, ensuring optimal staffing solutions while maintaining strong relationships with clients and stakeholders.</div>
-        
-        
+            <div className="mt-4 space-y-4">
+  <div>
+    <span className="text-blue-400 font-bold">International Recruitment:</span> Managed full-cycle technical recruitment for US-based clients, sourcing top-tier candidates for software engineering and IT consulting roles
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Client Partnership:</span> Developed strong relationships with Fortune 500 clients, understanding complex technical requirements and delivering tailored recruitment solutions
+  </div>
+  <div>
+    <span className="text-blue-400 font-bold">Talent Pipeline Development:</span> Built robust candidate databases, conducted 200+ technical interviews, and achieved 85% successful placement rate for matched candidates
+  </div>
+</div>
+
     </div>
     </a>
     

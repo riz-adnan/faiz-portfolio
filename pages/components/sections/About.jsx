@@ -70,33 +70,63 @@ const About = () => {
                 </span>
             </motion.div>
             
-            <div className="mt-24">
+         <div className="mt-24">
   <div className="relative z-10 m-auto border-0 md:grid md:grid-cols-1 xl:w-3/5 mt-28">
     <div className="text-lg leading-relaxed space-y-8">
       <div>
-        🌏✨ I’m <span className="text-blue-400 font-bold">Ali Faiz Rizvi</span>, currently based in <span className="text-blue-400 font-bold">Sydney, Australia</span>.  
-        🎓 I’m pursuing a dual Master’s degree in <span className="text-blue-400 font-bold">Commerce</span> and 
-        <span className="text-blue-400 font-bold"> Marketing (International Business & Marketing)</span> from 
-        <span className="text-blue-400 font-bold"> Macquarie University</span>.
+        <span className="text-blue-400 font-bold">Strategic Marketing and Business Development Professional</span> with 
+        <span className="text-blue-400 font-bold"> 4+ years</span> of progressive experience across 
+        <span className="text-blue-400 font-bold"> human resources</span>, 
+        <span className="text-blue-400 font-bold"> project management</span>, and 
+        <span className="text-blue-400 font-bold"> business operations</span>.  
+        Currently pursuing <span className="text-blue-400 font-bold">dual Master’s degrees</span> in 
+        <span className="text-blue-400 font-bold"> Commerce</span> and 
+        <span className="text-blue-400 font-bold"> Marketing</span> at 
+        <span className="text-blue-400 font-bold"> Macquarie University</span> with specialization in 
+        <span className="text-blue-400 font-bold"> International Business</span>.  
       </div>
       <div>
-        🌐 My passion lies in understanding global markets, driving cross-cultural strategies, and building sustainable 
-        <span className="text-blue-400 font-bold"> international business solutions</span>.  
-        🚀 I thrive in dynamic environments where creativity meets commerce, and where ideas turn into impactful campaigns.
+        Proven track record of <span className="text-blue-400 font-bold">expanding business operations</span>, 
+        managing <span className="text-blue-400 font-bold">15+ high-impact projects</span>, and driving 
+        <span className="text-blue-400 font-bold"> revenue growth</span> through 
+        <span className="text-blue-400 font-bold"> data-driven strategic initiatives</span>.  
+        Strong academic performer with demonstrated 
+        <span className="text-blue-400 font-bold"> leadership capabilities</span> and 
+        <span className="text-blue-400 font-bold"> cross-cultural business experience</span>.
       </div>
       <div>
-        🤝 With a strong foundation in business development and marketing strategy, I aim to create value by bridging 
-        <span className="text-blue-400 font-bold"> diverse consumer insights</span> with meaningful brand storytelling.  
-        📈 I’m driven by results, but grounded in empathy and global perspective.
+        <span className="text-blue-400 font-bold">Key Value Proposition:</span> Combining advanced academic training in 
+        <span className="text-blue-400 font-bold"> marketing</span> and 
+        <span className="text-blue-400 font-bold"> commerce</span> with practical business experience to deliver 
+        <span className="text-blue-400 font-bold"> innovative solutions</span> and drive 
+        <span className="text-blue-400 font-bold"> organizational growth</span> in dynamic 
+        <span className="text-blue-400 font-bold"> global markets</span>.
       </div>
-      <div>
-        💡 Whether it’s crafting go-to-market plans, developing international partnerships, or understanding cultural nuances in branding, I bring a 
-        <span className="text-blue-400 font-bold"> strategic yet human-centered approach</span>.  
-        🌟 Let’s connect and build something globally impactful — together!
+
+      {/* Technical Proficiencies */}
+      <div className="mt-8">
+        <h2 className="text-xl font-bold text-blue-400 mb-4">Technical Proficiencies</h2>
+        <div className="space-y-4">
+          <div>
+            <span className="text-blue-400 font-bold">Microsoft Office:</span> Advanced Excel (Pivot Tables, VBA, Financial Modeling), PowerPoint (Executive Presentations), Word (Professional Documentation)
+          </div>
+          <div>
+            <span className="text-blue-400 font-bold">Analytics Tools:</span> Google Analytics, Social Media Analytics, CRM Systems
+          </div>
+          <div>
+            <span className="text-blue-400 font-bold">Project Management:</span> Asana, Trello, MS Project
+          </div>
+          <div>
+            <span className="text-blue-400 font-bold">Design & Presentation:</span> Canva, Adobe Creative Suite (Basic)
+          </div>
+        </div>
       </div>
     </div>
   </div>
 </div>
+
+
+
 
 
             <div className='lg:pb-80'>
