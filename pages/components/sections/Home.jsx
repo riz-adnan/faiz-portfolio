@@ -132,8 +132,7 @@ const Home = () => {
   marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing
 </motion.div>
 <div className="absolute w-4/5 m-auto border-0 border-red-500 top-[-4rem] lg:left-[9rem] xl:left-[10rem] md:left-[5rem] z-20">
-            <Image src="/media/images/meformal10.png" alt="" width={700} height={100} className="m-auto  transition duration-300 transform grayscale"></Image>
-          </div>
+            </div>
           <div className="absolute z-40 md:w-1/3 lg:w-1/4 xl:w-1/5 text-sm text-white md:left-[5rem] md:top-[31.5rem] lg:top-[34.5rem] xl:top-[38rem] xl:left-[10rem] lg:left-[6.5rem] sm3:w-1/2 sm3:top-[20rem] sm3:left-[5rem]">
   I am a passionate<span className="font-bold text-blue-400"> Marketing & International Business Developer</span> focused on driving growth, building global partnerships, and crafting impactful brand strategies.
 </div>
@@ -177,7 +176,6 @@ const Home = () => {
   marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing marketing
 </motion.div>
   <div className="relative z-10 w-full m-auto -ml-4 border-0 border-red-500">
-              <Image src="/media/images/meformal10.png" alt="" width={800} height={100} className="m-auto  transition duration-300 transform grayscale"></Image>
             </div>
             <div className="absolute z-0 font-extrabold tracking-tighter text-center text-white font-change2 sm1:text-5xl left-3 sm1:top-[14rem] md:top-[17rem] sm2:top-[15rem] sm2:text-6xl sm2:left-0 sm3:left-8">I'm Business</div>
             <div className="absolute z-20 font-extrabold tracking-tighter text-center text-white font-change2 font-stencil2 sm1:text-5xl left-3 sm1:top-[14rem] sm2:top-[15rem] md:top-[17rem] sm2:text-6xl sm2:left-0 sm3:left-8">I'm Business</div>
